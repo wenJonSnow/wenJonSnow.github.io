@@ -1,0 +1,9 @@
+.sidebar {
+    background: red;
+
+    color: black ;
+}
+
+.toctree a {
+    color: green;
+}
