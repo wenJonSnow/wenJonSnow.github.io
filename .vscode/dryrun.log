@@ -1,0 +1,18 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/lebo/LeBo/wenJonSnow.github.io'
+echo "HomePage: https://github.com/rundocs/jekyll-rtd-theme\n"
+echo "Usage:"
+echo "    make [subcommand]\n"
+echo "Subcommands:"
+echo "    install   Install the theme dependencies"
+echo "    format    Format all files"
+echo "    report    Make a report from Google lighthouse"
+echo "    clean     Clean the workspace"
+echo "    dist      Build the theme css and script"
+echo "    status    Display status before push"
+echo "    theme     Make theme as gem and install"
+echo "    build     Build the test site"
+echo "    server    Make a livereload jekyll server to development"
+echo "    checkout  Reset the theme minified css and script to last commit"
+make: Leaving directory `/Users/lebo/LeBo/wenJonSnow.github.io'
+ 

@@ -1,0 +1,1 @@
+{"buildTargets":["build","checkout","clean","dist","format","help","install","report","server","status","theme"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
